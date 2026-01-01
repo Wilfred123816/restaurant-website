@@ -37,31 +37,44 @@ A fully responsive restaurant website built with HTML, CSS, and JavaScript.
 - Media queries for different screen sizes
 
 Technologies Used
+
 - Frontend: HTML5, CSS3 (Flexbox, Grid, Media Queries), Vanilla JavaScript
 - Tools:** Git, GitHub Pages, VS Code
 - Libraries:Font Awesome Icons, Google Fonts
 - Implement a backend for reservation system
+  
 Challenges & Solutions
+
 Challenge 1: Responsive Navigation
 Creating a navigation that works seamlessly across all devices was tricky.
 Solution: Implemented CSS media queries with a JavaScript toggle for mobile menu. Used Flexbox for desktop and absolute positioning for mobile.
 Challenge 2: Consistent Spacing Across Devices
 Ensuring elements maintained proper spacing on different screen sizes.
 Solution: Used CSS variables and relative units (rem, %) instead of fixed pixels. Implemented a mobile-first approach with progressive enhancement.
-   Installation & Setup
+
+Installation & Setup
+
 1.	Clone the repository
 2.	Open index.html in your browser
 3.	No build process or dependencies required
+   
 Performance Metrics
+
 •	Lighthouse Score: 95+ Performance
 •	Load Time: < 2 seconds
 •	Accessibility: 100/100
 •	Best Practices: 100/100
+
 Contributing
+
 Contributions are welcome! Please feel free to submit a Pull Request.
+
 License
+
 This project is open source and available under the MIT License.
+
 Author
+
 Wilfred Monyenye
 •	GitHub: @Wilfred123816
 •	Portfolio: wilfredmonyenye.github.io
