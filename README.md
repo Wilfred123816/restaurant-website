@@ -65,9 +65,3 @@ Author
 Wilfred Monyenye
 •	GitHub: @Wilfred123816
 •	Portfolio: wilfredmonyenye.github.io
-
-
-
-- 
-- Add food filtering/sorting functionality
-- Create admin dashboard for menu management
