@@ -20,7 +20,7 @@ A fully responsive restaurant website built with HTML, CSS, and JavaScript.
 ## How to View
 1. Clone this repository
 2. Open `index.html` in your browser
-3. Or view live at: https://github.com/Wilfred123816/wilfredmonyenye.github.io
+3. Or view live at: https://wilfred123816.github.io/restaurant-website/
 
 ## Project Structure
 - `index.html` - Main HTML file
